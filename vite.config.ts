@@ -56,5 +56,6 @@
     server: {
       port: 3000,
       open: true,
+      5518fea2-db12-41a9-b1b1-f95753264b78-00-16ezj0g3wgg9z.spock.replit.dev
     },
   });
