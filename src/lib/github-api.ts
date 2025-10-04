@@ -1,4 +1,4 @@
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = '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';
 const GITHUB_API_BASE = 'https://api.github.com';
 
 export interface GitHubRepo {
